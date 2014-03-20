@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Skybox
+  m_Shader: {fileID: 4800000, guid: 5e0363634170e4adfacfcdb48cf194af, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs: {}
+    m_Floats:
+      data:
+        first:
+          name: _Intensity
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _SHAr
+        second: {r: -.00793091394, g: -.0663869977, b: -.155201241, a: .32207939}
+      data:
+        first:
+          name: _SHAg
+        second: {r: -.013100314, g: .00210931455, b: -.188618466, a: .262122154}
+      data:
+        first:
+          name: _SHAb
+        second: {r: -.0205323305, g: .0609823726, b: -.316192329, a: .30765146}
+      data:
+        first:
+          name: _SHBr
+        second: {r: -.0144516323, g: -.154517919, b: .114251882, a: .030913217}
+      data:
+        first:
+          name: _SHBg
+        second: {r: -.0129838353, g: -.156174138, b: .143697605, a: .0306288134}
+      data:
+        first:
+          name: _SHBb
+        second: {r: -.0202600788, g: -.246524841, b: .244364947, a: .0488224067}
+      data:
+        first:
+          name: _SHC
+        second: {r: -.049745921, g: -.034219142, b: -.0400625356, a: 0}

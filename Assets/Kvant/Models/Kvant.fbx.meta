@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 98831d6458a5f46fdbbd35e726a25f1b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Kvant_Cylinder_2000
+    100004: Kvant_Cylinder_500
+    100006: Kvant_Icosphere_0
+    100008: Kvant_Icosphere_1
+    100010: Kvant_Icosphere_2
+    100012: Kvant_Icosphere_3
+    100014: Kvant_Icosphere_4
+    100016: Kvant_Icosphere_5
+    100018: Kvant_Plane_1K
+    100020: Kvant_Plane_4K
+    400000: //RootNode
+    400002: Kvant_Cylinder_2000
+    400004: Kvant_Cylinder_500
+    400006: Kvant_Icosphere_0
+    400008: Kvant_Icosphere_1
+    400010: Kvant_Icosphere_2
+    400012: Kvant_Icosphere_3
+    400014: Kvant_Icosphere_4
+    400016: Kvant_Icosphere_5
+    400018: Kvant_Plane_1K
+    400020: Kvant_Plane_4K
+    2300000: Kvant_Cylinder_2000
+    2300002: Kvant_Cylinder_500
+    2300004: Kvant_Icosphere_0
+    2300006: Kvant_Icosphere_1
+    2300008: Kvant_Icosphere_2
+    2300010: Kvant_Icosphere_3
+    2300012: Kvant_Icosphere_4
+    2300014: Kvant_Icosphere_5
+    2300016: Kvant_Plane_1K
+    2300018: Kvant_Plane_4K
+    3300000: Kvant_Cylinder_2000
+    3300002: Kvant_Cylinder_500
+    3300004: Kvant_Icosphere_0
+    3300006: Kvant_Icosphere_1
+    3300008: Kvant_Icosphere_2
+    3300010: Kvant_Icosphere_3
+    3300012: Kvant_Icosphere_4
+    3300014: Kvant_Icosphere_5
+    3300016: Kvant_Plane_1K
+    3300018: Kvant_Plane_4K
+    4300000: Kvant_Icosphere_5
+    4300002: Kvant_Cylinder_2000
+    4300004: Kvant_Cylinder_500
+    4300006: Kvant_Plane_4K
+    4300008: Kvant_Plane_1K
+    4300010: Kvant_Icosphere_4
+    4300012: Kvant_Icosphere_3
+    4300014: Kvant_Icosphere_2
+    4300016: Kvant_Icosphere_1
+    4300018: Kvant_Icosphere_0
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: TropicalRuins skybox
+  m_Shader: {fileID: 4800000, guid: 5e0363634170e4adfacfcdb48cf194af, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs: {}
+    m_Floats:
+      data:
+        first:
+          name: _Intensity
+        second: 2.29999995
+    m_Colors:
+      data:
+        first:
+          name: _SHAr
+        second: {r: -.264300704, g: .0199243091, b: -.120360911, a: .294521958}
+      data:
+        first:
+          name: _SHAg
+        second: {r: -.274876118, g: .0664209425, b: -.118133672, a: .290253103}
+      data:
+        first:
+          name: _SHAb
+        second: {r: -.324739307, g: .146029174, b: -.133076936, a: .326697022}
+      data:
+        first:
+          name: _SHBr
+        second: {r: .0226645786, g: .0479088761, b: -.0678108931, a: .17621395}
+      data:
+        first:
+          name: _SHBg
+        second: {r: -.0364602916, g: .01994114, b: -.0731376261, a: .174535528}
+      data:
+        first:
+          name: _SHBb
+        second: {r: -.12445379, g: -.0163369738, b: -.0935513899, a: .198695675}
+      data:
+        first:
+          name: _SHC
+        second: {r: .062480934, g: .0544993095, b: .0468928814, a: 0}
